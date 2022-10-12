@@ -1,3 +1,7 @@
+https://public.tableau.com/app/profile/olayinka.akinbola/viz/SalesAnalysis_16655846210620/Dashboard1?publish=yes
+
+https://public.tableau.com/app/profile/olayinka.akinbola/viz/CovidVisualization_16654046202450/Dashboard1?publish=yes
+
 # Project 1: Sales Analyis
 
 This project seeks to provide sales information that will drive an organization's growth. 
