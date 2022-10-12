@@ -14,5 +14,6 @@ https://public.tableau.com/app/profile/olayinka.akinbola/viz/SalesAnalysis_16655
 
 
 
-![image](https://user-images.githubusercontent.com/71553115/195381401-0be69eca-686e-4275-9822-db1325da473c.png)
+![image](https://user-images.githubusercontent.com/71553115/195381641-80b46ca3-83f0-4cc8-8118-d7384dd11056.png)
+
 
