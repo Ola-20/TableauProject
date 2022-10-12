@@ -19,3 +19,16 @@ https://public.tableau.com/app/profile/olayinka.akinbola/viz/SalesAnalysis_16655
 ![image](https://user-images.githubusercontent.com/71553115/195381641-80b46ca3-83f0-4cc8-8118-d7384dd11056.png)
 
 
+
+# Project 2: Covid Visualization
+This project gives a quick glance at the world covid statistics. Information visualized in map and chart view
+
+Find the link below:
+
+https://public.tableau.com/app/profile/olayinka.akinbola/viz/CovidVisualization_16654046202450/Dashboard1?publish=yes
+
+
+
+![image](https://user-images.githubusercontent.com/71553115/195390119-27d6e0ca-02f4-4603-b9e5-d27752d4f0e3.png)
+
+
