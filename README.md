@@ -7,6 +7,8 @@ The created dynamic dashboard gives instant insight into crucial sources of the 
 This will assist the company in replicating the same business strategies for similar markets and customers which are lagging behind in those metrics
 
 
+By clicking on the market, customer, or product you can drill down on these metrics to a high level of granularity 
+
 The link to the dashboard is below:
 
 https://public.tableau.com/app/profile/olayinka.akinbola/viz/SalesAnalysis_16655846210620/Dashboard1?publish=yes
