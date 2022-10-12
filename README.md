@@ -4,7 +4,11 @@ https://public.tableau.com/app/profile/olayinka.akinbola/viz/SalesAnalysis_16655
 ## Project 2
 https://public.tableau.com/app/profile/olayinka.akinbola/viz/CovidVisualization_16654046202450/Dashboard1?publish=yes
 
-# Project 1: Sales Analyis
+
+
+# INTRODUCTION
+
+## Project 1: Sales Analyis
 
 This project seeks to provide sales information that will drive an organization's growth. 
 
@@ -26,7 +30,7 @@ https://public.tableau.com/app/profile/olayinka.akinbola/viz/SalesAnalysis_16655
 
 
 
-# Project 2: Covid Visualization
+## Project 2: Covid Visualization
 This project gives a quick glance at the world covid statistics. Information visualized in map and chart view
 
 Find the link below:
