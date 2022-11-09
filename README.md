@@ -23,7 +23,6 @@ The link to the dashboard is below:
 
 https://tabsoft.co/3EhXYpc
 
-https://public.tableau.com/app/profile/olayinka.akinbola/viz/SalesAnalysis_16655846210620/Dashboard1?publish=yes
 
 
 
