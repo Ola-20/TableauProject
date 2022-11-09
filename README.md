@@ -36,7 +36,9 @@ This project gives a quick glance at the world covid statistics. Information vis
 
 Find the link below:
 
-https://public.tableau.com/app/profile/olayinka.akinbola/viz/CovidVisualization_16654046202450/Dashboard1?publish=yes
+https://tabsoft.co/3WOsIW3
+
+
 
 
 
