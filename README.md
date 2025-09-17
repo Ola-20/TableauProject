@@ -1,5 +1,5 @@
 ## Project 1
-![NSW Councils in Visuals](https://public.tableau.com/app/profile/olayinka.akinbola/viz/NSWCouncilsinVisuals/DemographyandSEIDB)
+[NSW Councils in Visuals](https://public.tableau.com/app/profile/olayinka.akinbola/viz/NSWCouncilsinVisuals/DemographyandSEIDB)
 
 ## Project 2
 https://public.tableau.com/app/profile/olayinka.akinbola/viz/SalesAnalysis_16655846210620/Dashboard1?publish=yes
@@ -13,11 +13,11 @@ https://public.tableau.com/app/profile/olayinka.akinbola/viz/CovidVisualization_
 
 ## Project 1: NSW Councils in Visuals
 
-![NSW Councils in Visuals](https://public.tableau.com/app/profile/olayinka.akinbola/viz/NSWCouncilsinVisuals/DemographyandSEIDB)
+[NSW Councils in Visuals](https://public.tableau.com/app/profile/olayinka.akinbola/viz/NSWCouncilsinVisuals/DemographyandSEIDB)
 
 
 The project provides a visual overview of the demographics and socio-economic characteristics of the 128 councils in New South Wales, Australia.
-Data Source: ![NSW government Website](https://www.yourcouncil.nsw.gov.au/data/)
+Data Source: [NSW government Website](https://www.yourcouncil.nsw.gov.au/data/)
 
 
 
