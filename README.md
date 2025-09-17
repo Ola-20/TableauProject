@@ -10,7 +10,9 @@ Project Link: [NSW Councils in Visuals](https://public.tableau.com/app/profile/o
 Data Source:  [NSW government Website](https://www.olg.nsw.gov.au/public/about-councils/comparative-council-information/your-council-report/)
 
 
+Sample Image:
 
+![Sample Image](image/NSW_council_1.PNG)
 
 
 ## Project 2: Sales Analysis
