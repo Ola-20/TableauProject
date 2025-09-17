@@ -1,23 +1,31 @@
 ## Project 1
-https://public.tableau.com/app/profile/olayinka.akinbola/viz/SalesAnalysis_16655846210620/Dashboard1?publish=yes
+![NSW Councils in Visulas](https://public.tableau.com/app/profile/olayinka.akinbola/viz/NSWCouncilsinVisuals/DemographyandSEIDB)
 
 ## Project 2
+https://public.tableau.com/app/profile/olayinka.akinbola/viz/SalesAnalysis_16655846210620/Dashboard1?publish=yes
+
+## Project 
 https://public.tableau.com/app/profile/olayinka.akinbola/viz/CovidVisualization_16654046202450/Dashboard1?publish=yes
 
 
 
 # INTRODUCTION
 
-## Project 1: Sales Analyis
+## Project 1: NSW Councils in Visuals
+The project provides a visual overview of the demographics and socio-economic characteristics of the 128 councils in New South Wales, Australia.
+Data Source: ![NSW government Website](https://www.yourcouncil.nsw.gov.au/data/)
+
+
+## Project 2: Sales Analysis
 
 This project seeks to provide sales information that will drive an organization's growth. 
 
 The created dynamic dashboard gives instant insight into crucial sources of the company’s revenue and profit margin. 
 
-This will assist the company in replicating the same business strategies for similar markets and customers which are lagging behind in those metrics
+This will assist the company in replicating the same business strategies for similar markets and customers that are lagging behind in those metrics
 
 
-By clicking on the market, customer, or product you can drill down on these metrics to a high level of granularity 
+By clicking on the market, customer, or product, you can drill down on these metrics to a high level of granularity 
 
 The link to the dashboard is below:
 
@@ -31,7 +39,7 @@ https://tabsoft.co/3EhXYpc
 
 
 
-## Project 2: Covid Visualization
+## Project 3: Covid Visualization
 This project gives a quick glance at the world covid statistics. Information visualized in map and chart view
 
 Find the link below:
