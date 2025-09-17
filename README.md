@@ -1,13 +1,3 @@
-## Project 1
-[NSW Councils in Visuals](https://public.tableau.com/app/profile/olayinka.akinbola/viz/NSWCouncilsinVisuals/DemographyandSEIDB)
-
-## Project 2
-https://public.tableau.com/app/profile/olayinka.akinbola/viz/SalesAnalysis_16655846210620/Dashboard1?publish=yes
-
-## Project 
-https://public.tableau.com/app/profile/olayinka.akinbola/viz/CovidVisualization_16654046202450/Dashboard1?publish=yes
-
-
 
 # INTRODUCTION
 
