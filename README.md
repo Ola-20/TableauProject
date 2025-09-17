@@ -17,7 +17,7 @@ https://public.tableau.com/app/profile/olayinka.akinbola/viz/CovidVisualization_
 
 
 The project provides a visual overview of the demographics and socio-economic characteristics of the 128 councils in New South Wales, Australia.
-Data Source: [NSW government Website](https://www.yourcouncil.nsw.gov.au/data/)
+Data Source: [NSW government Website](https://www.olg.nsw.gov.au/public/about-councils/comparative-council-information/your-council-report/)
 
 
 
