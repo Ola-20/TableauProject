@@ -5,9 +5,9 @@
 
 The project provides a visual overview of the demographics and socio-economic characteristics of the 128 councils in New South Wales, Australia.
 
-[NSW Councils in Visuals](https://public.tableau.com/app/profile/olayinka.akinbola/viz/NSWCouncilsinVisuals/DemographyandSEIDB)
+Project Link: [NSW Councils in Visuals](https://public.tableau.com/app/profile/olayinka.akinbola/viz/NSWCouncilsinVisuals/DemographyandSEIDB)
 
-Data Source: [NSW government Website](https://www.olg.nsw.gov.au/public/about-councils/comparative-council-information/your-council-report/)
+Data Source:  [NSW government Website](https://www.olg.nsw.gov.au/public/about-councils/comparative-council-information/your-council-report/)
 
 
 
